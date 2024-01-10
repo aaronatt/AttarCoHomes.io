@@ -1,0 +1,87 @@
+body {
+	background: white;
+	background-image: url(images/background_image.jpg);
+	font-family: arial;
+	}
+
+header	{
+
+		}
+
+header h1 {
+
+		}
+
+
+div.row: {
+	clear: both;
+	 }
+
+div.row:after {
+	clear: both;
+	 }
+
+div.col {
+	background: #898;
+	border: 5px solid #000;
+	border-radius: 5px;
+	padding: 15px .5% ;
+	float: left;
+	margin: .5%;
+	width: 31%;
+	 }
+
+div.myJumbo {
+	background: white;
+	border: 1px solid #999;
+	border-radius: 3px;
+	padding: 1.5% 1.5% 1.5% 1.5%;
+	margin: .5%;
+	width: 97%;
+	 }
+
+div.myJumboBorder {
+	background: white;
+	padding: 1% 1% 1% 1.5%;
+	border: 1px solid #999;
+	border-radius: 3px;
+}
+
+div.jesusBorder {
+		padding: 0% 0% 0% 1%;
+}
+
+div.centerButtons {
+		clear: both;
+		padding: 0% 0% 0% 30%;
+}
+
+h1  	{
+	color: #000;
+	}
+
+h2  	{
+	color: #000;
+	}
+
+li 		{
+	color: #555;
+	}
+
+a   {
+	color: blue;
+	}
+
+p   {
+	background: #666;
+	color: white;
+	padding: 10px 0px;
+	border-radius: 5%;
+	}
+
+footer {
+	background: #666;
+	padding: 10px 0px .002% 0px;
+	color: white;
+	clear:both;
+	}
